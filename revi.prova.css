@@ -1,0 +1,67 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Bebas+Neue&family=Itim&family=Lora:ital,wght@0,400..700;1,400..700&family=Rubik+Wet+Paint&display=swap');
+
+
+
+
+nav a{
+    text-decoration: none;
+    color: black;
+    font-family: "Bebas Neue", sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 50cm;
+    position: relative;
+    margin-top: 500cm;
+}
+
+
+
+
+nav{
+    background-color: rgb(255, 0, 0);
+    margin-left: 0;   
+    margin-bottom: 50;
+    text-align: center;
+    height: 50px;
+    justify-content: center;
+    
+   
+
+}
+
+body{
+    margin: 0%;
+}
+
+img{
+   margin-bottom: 50px;
+    display: flex;
+  
+}
+
+
+header{
+    justify-content: center;
+    display: flex;
+    background-color: #000000
+}
+
+body{
+    background-color: #000000
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+article {
+   
+   background-color: rgb(255, 217, 0);
+    
+    display: flex;
+    justify-content: center;
+   
+}
